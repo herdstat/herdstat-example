@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: MIT
 #
 
-name: herdstat
+name: 'Herdstat Analysis'
 on:
   workflow_dispatch:
 jobs:
